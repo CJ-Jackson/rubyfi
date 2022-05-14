@@ -1,3 +1,3 @@
 # Rubyfi
 
-I will update this readme lately.
+I will update this readme later.
